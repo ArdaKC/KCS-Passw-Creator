@@ -1,4 +1,4 @@
-KCS PasswCreator 1.0
+KCS PasswCreator 
 
 Açık kaynak güçlü şifre oluşturucusu.
 Emeği geçenler Arda KC + Furkan Karasu.
